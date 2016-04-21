@@ -36,4 +36,4 @@
 
 ![jiesuan](https://github.com/CasiaFan/BGI/blob/master/source/%E5%91%98%E5%B7%A5%E7%BB%93%E7%AE%97%E5%AE%A1%E6%89%B9%E5%8D%95.png)
 
-![zichan]()
+![zichan](https://github.com/CasiaFan/BGI/blob/master/source/%E8%B5%84%E4%BA%A7%E8%BD%AC%E7%A7%BB%E5%8D%95.png)
